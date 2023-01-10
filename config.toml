@@ -1,0 +1,30 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Mi página web con Hugo'
+theme = 'hugo-PaperMod-master'
+
+[menu]
+  [[menu.main]]
+	identifier = "inicio"
+	name = "Inicio"
+	title = "Inicio"
+	url = "/inicio/"
+	weight = 0
+  [[menu.main]]
+	identifier = "contacto"
+	name = "Contacto"
+	title = "Contacto"
+	url = "/contacto/"
+	weight = 0
+   [[menu.main]]
+	identifier = "nosotros"
+	name = "Nosotros"
+	title = "Nosotros"
+	url = "/nosotros/"
+	weight = 0
+   [[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	title = "Posts"
+	url = "/posts/"
+	weight = 0
