@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Mi página web con Hugo</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Mi página web con Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jan 2023 17:33:42 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Primera Web Hugo</title>
+      <link>http://example.org/posts/mi-primera-web-hugo/</link>
+      <pubDate>Tue, 10 Jan 2023 17:33:42 +0100</pubDate>
+      
+      <guid>http://example.org/posts/mi-primera-web-hugo/</guid>
+      <description>Hola esta es mi primera página web con Hugo</description>
+    </item>
+    
+    <item>
+      <title>Prueba1</title>
+      <link>http://example.org/posts/prueba1/</link>
+      <pubDate>Tue, 10 Jan 2023 17:33:42 +0100</pubDate>
+      
+      <guid>http://example.org/posts/prueba1/</guid>
+      <description>Esto es el primer post</description>
+    </item>
+    
+    <item>
+      <title>Prueba2</title>
+      <link>http://example.org/posts/prueba2/</link>
+      <pubDate>Tue, 10 Jan 2023 17:33:42 +0100</pubDate>
+      
+      <guid>http://example.org/posts/prueba2/</guid>
+      <description>Esto es el segundo post</description>
+    </item>
+    
+    <item>
+      <title>Prueba3</title>
+      <link>http://example.org/posts/prueba3/</link>
+      <pubDate>Tue, 10 Jan 2023 17:33:42 +0100</pubDate>
+      
+      <guid>http://example.org/posts/prueba3/</guid>
+      <description>Esto es el tercer post</description>
+    </item>
+    
+  </channel>
+</rss>
