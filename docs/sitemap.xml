@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://pablolopezlo15.github.io/Hugo/</loc>
     <lastmod>2023-01-10T17:33:42+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/mi-primera-web-hugo/</loc>
+    <loc>https://pablolopezlo15.github.io/Hugo/posts/mi-primera-web-hugo/</loc>
     <lastmod>2023-01-10T17:33:42+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://pablolopezlo15.github.io/Hugo/posts/</loc>
     <lastmod>2023-01-10T17:33:42+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/prueba1/</loc>
+    <loc>https://pablolopezlo15.github.io/Hugo/posts/prueba1/</loc>
     <lastmod>2023-01-10T17:33:42+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/prueba2/</loc>
+    <loc>https://pablolopezlo15.github.io/Hugo/posts/prueba2/</loc>
     <lastmod>2023-01-10T17:33:42+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/prueba3/</loc>
+    <loc>https://pablolopezlo15.github.io/Hugo/posts/prueba3/</loc>
     <lastmod>2023-01-10T17:33:42+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://pablolopezlo15.github.io/Hugo/posts/</loc>
     <lastmod>2023-01-10T17:31:57+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>https://pablolopezlo15.github.io/Hugo/contacto/</loc>
     <lastmod>2023-01-10T17:27:09+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/nosotros/</loc>
+    <loc>https://pablolopezlo15.github.io/Hugo/nosotros/</loc>
     <lastmod>2023-01-10T17:26:56+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/inicio/</loc>
+    <loc>https://pablolopezlo15.github.io/Hugo/inicio/</loc>
     <lastmod>2023-01-10T17:26:45+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://pablolopezlo15.github.io/Hugo/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://pablolopezlo15.github.io/Hugo/tags/</loc>
   </url>
 </urlset>
